@@ -1,0 +1,12 @@
+__pycache__
+.DS_Store
+*/__pycache__
+*/.DS_Store
+.idea
+.venv
+.vscode
+.fleet
+tmp*
+/dist
+/build
+/.build_logs

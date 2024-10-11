@@ -1,0 +1,13 @@
+configs.services:
+  type: py
+  files:
+    - app
+    - cache
+    - logger
+    - rcl
+    - subprocesses
+    - db
+    - printing
+    - ocr_convertor
+    - scan
+    - server
